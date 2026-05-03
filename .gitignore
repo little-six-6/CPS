@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environment
+monitor_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and runtime
+*.log
+runtime/*.jpg
+runtime/*.png
+
+# Database
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Shortcuts
+*.lnk

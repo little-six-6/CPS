@@ -1,0 +1,4 @@
+"""Project-wide constants."""
+
+DEFAULT_INTERVAL_SECONDS = 0.2
+DEFAULT_MAX_ITERATIONS = 5
